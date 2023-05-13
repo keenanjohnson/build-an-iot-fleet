@@ -5,6 +5,8 @@ If you are starting to build your own fleet of connected devices, consider this 
 
 If this is helpful to you, consider giving it a star!
 
+Have a question? [Ask in the Discussion Forums.](https://github.com/keenanjohnson/build-an-iot-fleet/discussions)
+
 ## Hardware
 You have a lot of choices to make in hardware. Each of these choices has strengths, weaknesses, and will affect the software system needed to power your fleet.
 
