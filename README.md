@@ -19,7 +19,7 @@ Some options to consider:
 * Wifi - The cheapest, at the expense of lower range and hgher power requirements. The main benefit is that no recurring costs are incurred by the fleet owner as wifi is usually paid for by customers. However, a robust onboarding process will need to be developed to allow users to connect and change the devices wifi. 
 * Cellular/GSM/LTE
 * LoRaWAN
-* * Amazon Sidewalk - A new network using Bluetooth Low Energy (BLE) and 900 megahertz to create an 
+* Amazon Sidewalk - A new network using Bluetooth Low Energy (BLE) and 900 megahertz to create an 
 
 ## Software
 Writing software is the secret sauce that powers any excellent fleet. The choices in tools and quality of the software will dominate the user experience of the fleet.
